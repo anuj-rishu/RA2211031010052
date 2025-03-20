@@ -131,26 +131,6 @@ Response:
 }
 ```
 
----
-
-## Running the Microservices
-### Prerequisites
-- Node.js installed
-- MongoDB for the Social Media Platform API
-
-### Installation
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-repo-url.git
-   cd repository-folder
-   ```
-2. Install dependencies:
-   ```sh
-   npm install
-   ```
-3. Start the server:
-   ```sh
-   npm start
    ```
 
 ## Screenshots
