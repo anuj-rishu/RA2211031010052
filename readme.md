@@ -154,3 +154,9 @@ Response:
    ```
 
 ## Screenshots
+
+
+<img width="1072" alt="Screenshot 2025-03-20 at 20 41 57" src="https://github.com/user-attachments/assets/b92e7c68-bc4e-4da4-a683-f6deadfd1a60" />
+<img width="1081" alt="Screenshot 2025-03-20 at 20 41 46" src="https://github.com/user-attachments/assets/eb98b306-5889-4f08-8177-641aeeb9ed8b" />
+<img width="1026" alt="Screenshot 2025-03-20 at 20 41 30" src="https://github.com/user-attachments/assets/30ba14b6-7187-4036-852b-8025a7f54f81" />
+<img width="1019" alt="Screenshot 2025-03-20 at 20 41 02" src="https://github.com/user-attachments/assets/b99f7396-b58f-4790-b0e6-f84ac16c7074" />
